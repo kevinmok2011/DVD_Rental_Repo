@@ -20,7 +20,3 @@ In this project, I extract some data from the DVD rental database (https://www.p
 
 
 ![DVD Rental ER Diagram](https://github.com/kevinmok2011/DVD_Rental_Repo/blob/main/dvd-rental-sample-database-diagram.png)
-
-Objective:
-
-
